@@ -1,6 +1,6 @@
 # Challenge
 
-There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 43239, but it doesn't speak English...
+There is a nice program that you can talk to by using this command in a shell: ```$ nc mercury.picoctf.net 43239```, but it doesn't speak English...
 
 Hint: You can practice using netcat with this picoGym problem: what's a netcat?
 
