@@ -29,4 +29,4 @@ Hint: Finding a cheatsheet for bash would be really helpful!
 
 - ```ls``` (to see file in the directory)
 
-- ```cat cat 3of3.flag.txt``` (to view content of the file)
+- ```cat 3of3.flag.txt``` (to view content of the file)
