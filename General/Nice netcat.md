@@ -14,7 +14,7 @@ Hint: You can practice reading and writing ASCII with this picoGym problem: Let'
 
 ```112 105 99 111 67 84 70 123 103 48 48 100 95 107 49 116 116 121 33 95 110 49 99 51 95 107 49 116 116 121 33 95 55 99 48 56 50 49 102 53 125 10```
 
-- convert the hex to ascii using table below
+- convert the hex to char using ascii table below
 
 ![ascii table](https://github.com/urhnh/ctfwriteup-pico/assets/149639198/c8a4933e-9b58-41b9-a93c-d42a16fbc83b)
 
