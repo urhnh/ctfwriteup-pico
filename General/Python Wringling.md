@@ -10,10 +10,10 @@ Hint: $ man python
 
 - open webshell
 
-- wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py
+- ```wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/ende.py```
 
-- wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en
+- ```wget https://mercury.picoctf.net/static/8e33ede04d02f3765b8c6a6e24d72733/flag.txt.en```
 
-- python ende.py -d flag.txt.en
+- ```python ende.py -d flag.txt.en```
 
 - enter the password
