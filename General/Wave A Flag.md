@@ -16,10 +16,10 @@ Hint: Not every program implements help features like -h and --help.
 
 - open webshell
 
-- wget https://mercury.picoctf.net/static/a14be2648c73e3cda5fc8490a2f476af/warm
+- ```wget https://mercury.picoctf.net/static/a14be2648c73e3cda5fc8490a2f476af/warm```
 
-- chmod +x warm (to make file executable)
+- ```chmod +x warm``` (to make file executable)
 
-- ./warm (to execute file)
+- ```./warm``` (to execute file)
 
-- ./warm -h (to pass -h)
+- ```./warm -h``` (to pass -h)
