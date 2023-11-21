@@ -16,3 +16,6 @@ Hint: You can practice reading and writing ASCII with this picoGym problem: Let'
 
 - convert the hex to ascii using table below
 
+![ascii table](https://github.com/urhnh/ctfwriteup-pico/assets/149639198/c8a4933e-9b58-41b9-a93c-d42a16fbc83b)
+
+
