@@ -8,7 +8,7 @@
 
 > blackquote
 
-[links](https://picoctf.org/)https://picoctf.org/)
+[links](https://picoctf.org/)
 
 * unordered list1
 
