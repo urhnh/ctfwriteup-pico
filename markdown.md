@@ -8,13 +8,13 @@
 
 > blackquote
 
-[links] (https://picoctf.org/)https://picoctf.org/)
+[links](https://picoctf.org/)https://picoctf.org/)
 
-*unordered list1
+* unordered list1
 
-+unordered list2
++ unordered list2
 
--unordered list3
+- unordered list3
 
 1. ordered list1
 
@@ -22,8 +22,8 @@
 
 3. ordered list3
 
-*nested list
+* nested list
 
-  *nested list
+   * nested list
 
 
