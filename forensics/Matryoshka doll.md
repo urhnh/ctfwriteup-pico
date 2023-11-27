@@ -22,6 +22,8 @@ unzip 3_c.jpg
 
 cd base_images```
 
+
 there's the flag hiding! we can now stop unzipping and try to open the file
+
 
 ```cat flag..txt```
