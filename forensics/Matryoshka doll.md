@@ -8,7 +8,8 @@ Hint: Make sure to submit the flag as picoCTF{XXXXX}
 
 # Solution
 
-``` wget https://mercury.picoctf.net/static/5ef2e9103d55972d975437f68175b9ab/dolls.jpg
+```
+wget https://mercury.picoctf.net/static/5ef2e9103d55972d975437f68175b9ab/dolls.jpg
 
 unzip dolls.jpg
 
@@ -20,10 +21,15 @@ cd base_images
 
 unzip 3_c.jpg
 
-cd base_images```
+cd base_images
+```
 
 
 there's the flag hiding! we can now stop unzipping and try to open the file
 
 
-```cat flag..txt```
+```
+cat flag.txt
+```
+
+   
